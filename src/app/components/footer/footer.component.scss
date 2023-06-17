@@ -1,0 +1,13 @@
+@import '../../../styles/colors';
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 1rem;
+
+    background-color: $bgColorLight;
+    margin: 0;
+    
+   
+}
