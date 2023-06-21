@@ -6,6 +6,7 @@ MovieAPP With ANGULAR
 - Searching 
 - Pagination
 - Filtration By Genre
+- Show Details Of Movie
 
 <img src="./1.png">
 <img src="./2.png">
